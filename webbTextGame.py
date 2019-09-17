@@ -20,7 +20,7 @@ def start():
 
 time.sleep(4)
 game = str("Untitled Python Game")
-print(game , "by Brendan Webb, for Project Time.")
+print(game , "by Brendan Webb")
 print("Project started on the 2nd of May, 2019.")
 # time.sleep(10)
 # this above code was implemented to test the opening code
